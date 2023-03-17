@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
+  },
+  "name": "index",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
